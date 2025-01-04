@@ -44,6 +44,7 @@ const FeedbackSystem = () => {
               >
                 👍 Upvote
               </button>
+
               <button
                 className="py-10 px-15 danger"
                 data-testid={`downvote-btn-${index}`}
