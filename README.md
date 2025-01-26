@@ -5,6 +5,7 @@
 | 1   | [Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true)       | [itemListManager.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/itemListManager.js)        |
 | 2   | [Code Review Feedback](https://www.hackerrank.com/challenges/code-review-feedback/problem?isFullScreen=true) | [codeReviewFeedback.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/codeReviewFeedback.js) |
 | 3   | [Article Sorting](https://www.hackerrank.com/challenges/react-article-sorting/problem) | [articleSorting](https://github.com/isinnur/problems-solutions/tree/main/reactSolutions/articleSorting) |
+| 4   | [Breaking The Record](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [breakingTheRecord.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/breakingTheRecords.js) |
 
 # Algorithm Solutions
 
