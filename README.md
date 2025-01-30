@@ -1,5 +1,5 @@
-# React Solutions
-
+> # React Solutions
+ 
 | #   | Problems                                                                                                     | Solutions                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true)       | [itemListManager.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/itemListManager.js)       |
@@ -7,8 +7,10 @@
 | 3   | [Article Sorting](https://www.hackerrank.com/challenges/react-article-sorting/problem)                       | [articleSorting](https://github.com/isinnur/problems-solutions/tree/main/reactSolutions/articleSorting)               |
 | 4   | [Contact Form](https://www.hackerrank.com/challenges/react-contact-form/problem)                             | [contactForm.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/contactForm.js)               |
 
-# Algorithm Solutions
+<br/>  
 
+> # Algorithm Solutions
+ 
 | #   | Algorithms                                                                                                     | Solutions                                                                                                                      |
 | --- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) | [formingaMagicSquare.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/forming-a-magic-square.js) |
