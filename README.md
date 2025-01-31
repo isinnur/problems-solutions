@@ -1,5 +1,5 @@
 > # React Solutions
- 
+
 | #   | Problems                                                                                                     | Solutions                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true)       | [itemListManager.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/itemListManager.js)       |
@@ -7,10 +7,10 @@
 | 3   | [Article Sorting](https://www.hackerrank.com/challenges/react-article-sorting/problem)                       | [articleSorting](https://github.com/isinnur/problems-solutions/tree/main/reactSolutions/articleSorting)               |
 | 4   | [Contact Form](https://www.hackerrank.com/challenges/react-contact-form/problem)                             | [contactForm.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/contactForm.js)               |
 
-<br/>  
+<br/>
 
 > # Algorithm Solutions
- 
+
 | #   | Algorithms                                                                                                     | Solutions                                                                                                                      |
 | --- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) | [formingaMagicSquare.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/forming-a-magic-square.js) |
@@ -20,3 +20,4 @@
 | 5   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)                         | [beautifulTriplets.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/beautifulTriplets.js)        |
 | 6   | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)                                 | [halloweenSale.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/halloweenSale.js)                |
 | 7   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)                               | [chocolateFeast.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/chocolateFeast.js)              |
+| 8   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)                                         | [cavityMap.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/cavityMap.js)                        |
