@@ -1,14 +1,3 @@
-> # React Solutions
-
-| #   | Problems                                                                                                     | Solutions                                                                                                             |
-| --- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true)       | [itemListManager.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/itemListManager.js)       |
-| 2   | [Code Review Feedback](https://www.hackerrank.com/challenges/code-review-feedback/problem?isFullScreen=true) | [codeReviewFeedback.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/codeReviewFeedback.js) |
-| 3   | [Article Sorting](https://www.hackerrank.com/challenges/react-article-sorting/problem)                       | [articleSorting](https://github.com/isinnur/problems-solutions/tree/main/reactSolutions/articleSorting)               |
-| 4   | [Contact Form](https://www.hackerrank.com/challenges/react-contact-form/problem)                             | [contactForm.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/contactForm.js)               |
-
-<br/>
-
 > # Algorithm Solutions
 
 | #   | Algorithms                                                                                                     | Solutions                                                                                                                                 |
@@ -51,3 +40,15 @@
 | 36  | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript)               | [theHastagGenerator.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/theHastagGenerator.js)                 |
 | 37  | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript)                     | [breakCamelCase.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/breakCamelCase.js)                         |
 | 38  | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/javascript)                   | [movingZeros.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/movingZeros.js)                               |
+| 39  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                              | [twoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/twoSum.js)                                         |
+
+<br/>
+
+> # React Solutions
+
+| #   | Problems                                                                                                     | Solutions                                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true)       | [itemListManager.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/itemListManager.js)       |
+| 2   | [Code Review Feedback](https://www.hackerrank.com/challenges/code-review-feedback/problem?isFullScreen=true) | [codeReviewFeedback.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/codeReviewFeedback.js) |
+| 3   | [Article Sorting](https://www.hackerrank.com/challenges/react-article-sorting/problem)                       | [articleSorting](https://github.com/isinnur/problems-solutions/tree/main/reactSolutions/articleSorting)               |
+| 4   | [Contact Form](https://www.hackerrank.com/challenges/react-contact-form/problem)                             | [contactForm.js](https://github.com/isinnur/problems-solutions/blob/main/reactSolutions/contactForm.js)               |
