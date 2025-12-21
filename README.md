@@ -41,6 +41,7 @@
 | 37  | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript)                     | [breakCamelCase.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/breakCamelCase.js)                         |
 | 38  | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/javascript)                   | [movingZeros.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/movingZeros.js)                               |
 | 39  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                              | [twoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/twoSum.js)                                         |
+| 40  | [Add Two Sum](https://https://leetcode.com/problems/add-two-numbers/)                                          | [addTwoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/addTwoSum.js)                                   |
 
 <br/>
 
