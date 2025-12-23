@@ -42,6 +42,7 @@
 | 38  | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/javascript)                   | [movingZeros.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/movingZeros.js)                               |
 | 39  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                              | [twoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/twoSum.js)                                         |
 | 40  | [Add Two Sum](https://https://leetcode.com/problems/add-two-numbers/)                                          | [addTwoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/addTwoSum.js)                                   |
+| 41  | [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)             | [longestSubstring.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/longestSubstring.js)                     |
 
 <br/>
 
