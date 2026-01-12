@@ -44,6 +44,7 @@
 | 40  | [Add Two Sum](https://https://leetcode.com/problems/add-two-numbers/)                                          | [addTwoSum.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/addTwoSum.js)                                   |
 | 41  | [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)             | [longestSubstring.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/longestSubstring.js)                     |
 | 42  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                      | [medianOfArrays.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/medianOfArrays.js)                         |
+| 43  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                              | [reverseInteger.js](https://github.com/isinnur/problems-solutions/blob/main/algorithmSolutions/reverseInteger.js)                         |
 
 <br/>
 
